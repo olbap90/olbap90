@@ -1,5 +1,4 @@
-Pablo-Ricci
-
+# Pablo-Ricci
 👨‍💻 Desarrollador Full Stack con enfoque en Frontend
 
 Soy un desarrollador junior especializado en Frontend, apasionado por la tecnología y en busca de nuevas oportunidades para aplicar y expandir mis habilidades en un entorno profesional. Con experiencia en Next.js, React y Tailwind CSS, disfruto creando interfaces funcionales y de alto rendimiento que mejoren la experiencia del usuario.
